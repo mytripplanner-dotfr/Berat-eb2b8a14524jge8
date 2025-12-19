@@ -1,0 +1,165 @@
+{
+  "pays": "Albanie",
+  "drapeau": "🇦🇱",
+  "symbole": "🦅",
+  "titre": "Berat, la Ville aux Mille Fenêtres : Un Voyage au Cœur de l'Albanie",
+  "budget_total": "640€",
+  "duree": "3 jours",
+  "temps_vol": "environ 5h avec escale depuis Thomm, Allemagne",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée à Berat, la Perle Albanaise",
+      "legende": "Après votre arrivée à l'aéroport de Tirana et un transfert pittoresque vers Berat, installez-vous dans votre hôtel. Profitez de cette première journée pour une immersion douce dans l'atmosphère unique de la \"ville aux mille fenêtres\", en vous promenant le long de la rivière Osum et en admirant les maisons ottomanes. Laissez-vous charmer par l'architecture distinctive et la sérénité des lieux.",
+      "lieu": "Berat",
+      "activites": [
+        "🛬 <strong>Arrivée à Tirana et transfert à Berat</strong>: Le trajet en bus ou taxi de l'aéroport de Tirana à Berat offre déjà un aperçu des paysages albanais, traversant des plaines fertiles et des collines.",
+        "🛏️ <strong>Installation à l'hôtel et première balade</strong>: Prenez le temps de vous installer dans votre hébergement avant de faire une promenade relaxante le long de la rivière Osum, admirant les célèbres maisons blanches qui grimpent sur la colline."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Conseil transport",
+          "texte": "Les bus entre Tirana et Berat sont fréquents et économiques, partant de la gare routière de Tirana. Le trajet dure environ 2 heures."
+        },
+        {
+          "symbole": "🍽️",
+          "titre": "Dîner local",
+          "texte": "Goûtez au fergesë, un plat traditionnel albanais à base de poivrons, tomates et fromage, dans un restaurant typique du quartier de Mangalem."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏰",
+      "titre": "Immersion dans l'Histoire et les Quartiers Uniques",
+      "legende": "Plongez au cœur de l'histoire de Berat en explorant ses quartiers emblématiques, Mangalem et Gorica, reliés par le pont historique. Montez ensuite jusqu'à la citadelle, un véritable musée à ciel ouvert, offrant des vues imprenables sur la ville et la vallée. Cette journée vous transportera à travers les siècles, entre architecture ottomane et vestiges byzantins.",
+      "lieu": "Berat",
+      "activites": [
+        "🚶‍♂️ <strong>Découverte des quartiers de Mangalem et Gorica</strong>: Flânez dans les ruelles pavées de Mangalem, le quartier musulman, puis traversez le pont Gorica pour explorer le quartier chrétien du même nom, chacun avec son charme distinctif.",
+        "🏰 <strong>Visite du Château de Berat</strong>: Montez à la citadelle habitée, un site unique où les résidents vivent encore au milieu des églises byzantines, des mosquées et des ruines, offrant un panorama spectaculaire sur la ville.",
+        "🏛️ <strong>Musée Onufri (dans le château)</strong>: Situé dans l'ancienne cathédrale de la Dormition de Sainte Marie, ce musée abrite une collection impressionnante d'icônes post-byzantines, notamment celles du maître peintre Onufri."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🚶‍♀️",
+          "titre": "Chaussures confortables",
+          "texte": "Prévoyez de bonnes chaussures pour la montée au château et la marche dans les rues pavées, car certaines peuvent être glissantes."
+        },
+        {
+          "symbole": "📸",
+          "titre": "Point de vue",
+          "texte": "Le meilleur endroit pour photographier les \"mille fenêtres\" est depuis le pont Gorica ou la rive opposée de la rivière Osum."
+        },
+        {
+          "symbole": "💡",
+          "titre": "Histoire vivante",
+          "texte": "Le château de Berat est l'un des rares au monde où des gens vivent encore à l'intérieur de ses murs, offrant une expérience unique."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🏞️",
+      "titre": "Nature, Saveurs Locales et Adieux à Berat",
+      "legende": "Pour votre dernière journée, explorez les environs de Berat ou profitez d'une dernière immersion culturelle. Que ce soit par une dégustation de vins locaux ou une visite de sites naturels proches, cette journée sera l'occasion de savourer les dernières merveilles de la région avant votre départ. Préparez-vous à emporter avec vous des souvenirs inoubliables de cette ville fascinante.",
+      "lieu": "Berat / Tirana",
+      "activites": [
+        "🍷 <strong>Dégustation de vins au vignoble de Çobo</strong>: À quelques kilomètres de Berat, découvrez le vignoble familial Çobo, réputé pour ses vins albanais, et profitez d'une dégustation dans un cadre paisible.",
+        "🚌 <strong>Retour à Tirana et vol retour</strong>: Après avoir profité de vos dernières heures à Berat, prenez le bus pour Tirana et dirigez-vous vers l'aéroport pour votre vol de retour, la tête pleine de souvenirs."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🍇",
+          "titre": "Vins albanais",
+          "texte": "L'Albanie est un pays viticole méconnu, et la région de Berat produit d'excellents vins rouges et blancs à découvrir."
+        },
+        {
+          "symbole": "🎁",
+          "titre": "Souvenirs",
+          "texte": "N'oubliez pas d'acheter de l'huile d'olive locale, du raki ou des produits artisanaux comme souvenirs de Berat."
+        },
+        {
+          "symbole": "⏰",
+          "titre": "Timing",
+          "texte": "Prévoyez suffisamment de temps pour le trajet retour Berat-Tirana-aéroport, surtout en fonction des horaires de vol internationaux."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "250€/pers (Vol A/R Thomm-Tirana avec escale, classe économique)",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "50€/pers (Transfert aéroport-Tirana, bus Tirana-Berat A/R, transports locaux)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "120€/pers (3 jours, 3 repas/jour, restaurants de gamme moyenne)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "180€/pers (3 nuits en hôtel 3 étoiles, base chambre double)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "40€/pers (Entrée château, musée Onufri, dégustation de vin)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Les périodes idéales pour ce séjour sont les mois d'Avril, Mai, Juin et Septembre, Octobre.",
+      "symbole": "🍁"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "L'Albanie est un pays des Balkans avec une population d'environ 2,8 millions d'habitants. Berat, classée à l'UNESCO, compte environ 60 000 habitants.",
+      "symbole": "ℹ️"
+    },
+    {
+      "titre": "Berat est surnommée la \"ville aux mille fenêtres\" en raison de son architecture ottomane unique où les fenêtres des maisons semblent se superposer sur les collines.",
+      "symbole": "🏠"
+    },
+    {
+      "titre": "La monnaie est le Lek albanais (ALL). Les cartes de crédit sont acceptées dans les grandes villes, mais prévoyez du liquide pour les petits commerces et les zones rurales.",
+      "symbole": "💳"
+    },
+    {
+      "titre": "Le café est une institution sociale en Albanie. Prenez le temps de savourer un café turc ou un macchiato dans l'un des nombreux cafés locaux.",
+      "symbole": "☕"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Infos officielles et inspirations",
+      "titre": "Tourisme Albanie",
+      "url": "https://albania.al/",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Horaires des transports en bus",
+      "titre": "Gjirafa Autobus (Tirana-Berat)",
+      "url": "https://gjirafa.com/autobus/tirane-berat",
+      "symbole": "🚆"
+    },
+    {
+      "legende": "Prévisions météo",
+      "titre": "Météo Albanie",
+      "url": "https://www.accuweather.com/fr/al/albania-weather",
+      "symbole": "🌤️"
+    }
+  ]
+}
